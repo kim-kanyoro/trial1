@@ -1,0 +1,60 @@
+/* kim.css */
+
+/* Styling for the <h1> element */
+h1 {
+    color: blue;
+    font-family: Arial, sans-serif;
+}
+
+/* Styling for the <p> element with class "four" */
+p.four {
+    font-size: 18px;
+    font-style: italic;
+}
+
+/* Styling for the <h2> element with class "two" */
+h2.two {
+    color: green;
+}
+
+/* Styling for the <body> element */
+body {
+    background-image: url("P5.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* Styling for the <img> element */
+img {
+    border-radius: 10px;
+}
+
+/* Styling for the <table> element */
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+
+/* Styling for the <th> and <td> elements within the <table> */
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+/* Styling for the <audio> element */
+audio {
+    margin-top: 20px;
+}
+
+/* Styling for the <address> element */
+address {
+    font-style: normal;
+}
+
+/* Styling for the <a> element within the <center> element */
+center a {
+    text-decoration: none;
+    color: red;
+    font-weight: bold;
+}
